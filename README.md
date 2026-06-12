@@ -18,11 +18,12 @@
 | **DevOps** | <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="25" height="25"/></a> <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="25" height="25"/></a> <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" width="25" height="25"/></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="25" height="25"/></a> <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" width="25" height="25"/></a> <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="25" height="25"/></a> |
 | **Others** | <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="25" height="25"/></a> <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" width="25" height="25"/></a> <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="25" height="25"/></a> <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="25" height="25"/></a> |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangdev1234&show_icons=true&locale=en&layout=compact" alt="sangdev1234" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sangdev1234&show_icons=true&locale=en" alt="sangdev1234" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangdev1234&" alt="sangdev1234" /></p>
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=sangdev1234&show_icons=true&locale=en" height="195px" width="350px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangdev1234&" height="195px" width="350px" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sangdev1234&show_icons=true&locale=en&layout=compact" height="195px" width="350px" />
+ 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
